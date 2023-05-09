@@ -1,0 +1,13 @@
+@relation transactions
+@attribute i1{yes,no}
+@attribute i2{yes,no}
+@attribute i3{yes,no}
+@attribute i4{yes,no}
+@attribute i5{yes,no}
+@data
+yes,yes,yes,no,no
+no,yes,yes,yes,no
+no,no,no,yes,yes
+yes,yes,no,yes,no
+yes,yes,yes,no,yes
+yes,yes,yes,yes,no
